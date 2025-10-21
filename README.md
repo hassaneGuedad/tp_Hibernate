@@ -43,8 +43,8 @@ Copier le code
 <property name="hibernate.connection.password"></property>
 Installer les dépendances Maven :
 
-bash
-Copier le code
+
+---
 mvn clean install
 Exécution
 Lancer la classe Test.java pour vérifier les opérations CRUD.
