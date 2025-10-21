@@ -1,4 +1,6 @@
 
+
+<img width="640" height="340" alt="cap1" src="https://github.com/user-attachments/assets/c7e75f96-50e2-481c-b6bc-4e3b3b3127b1" />
 # TP Hibernate - Gestion de Salles et Machines
 
 ## Description
@@ -62,8 +64,7 @@ Voici un exemple du schéma des tables après exécution :
 salles : contient les salles avec id et code
 
 Machine : contient les machines avec id, ref, dateAchat, et salle_id
-<img width="640" height="340" alt="cap1" src="https://github.com/user-attachments/assets/7b4ee5b7-4b83-42a5-8751-7fc107e6cacf" />
-<img width="640" height="340" alt="cap1" src="https://github.com/user-attachments/assets/454f9d9b-e305-4748-a8ee-bd4b01d2a852" />
+
 
 
 Auteur
