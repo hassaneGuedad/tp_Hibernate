@@ -57,6 +57,9 @@ Créer, lire, mettre à jour et supprimer des Machines
 Lier les machines à des salles (relation @ManyToOne)
 
 Rechercher les machines entre deux dates avec une NamedQuery
+---
+voici les tables creers dans la base de donnees : 
+![Uploading cap1.PNG…]()
 
 Auteur
 Hassane Guedad
